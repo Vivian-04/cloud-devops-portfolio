@@ -8,11 +8,11 @@ This folder documents my Linux learning journey, hands-on practice, and shell sc
 
 ### 📄 Notes
 - **Linux Essentials Full Notes**  
-  → [linux-notes.md](linux-notes.md)  
+  → [linux-notes.md.md](linux-notes.md.md)  
   (All my Linux theory, explanations, commands, examples, and personal study notes.)
 
 - **Shell Scripting Notes**  
-  → [shell-scripting.md](shell-scripting.md)  
+  → [shell-scripting.md.md](shell-scripting.md.md)  
   (Covers variables, user input, conditionals, loops, automation, and more.)
 
 Scripts include:
