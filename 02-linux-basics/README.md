@@ -26,7 +26,7 @@ Scripts include:
 ### 🎓 Certification  
 I completed the **Cisco NetAcad Linux Essentials** training.  
 My certificate is available here:  
-→ 
+→ [linux_essentials_certificate.pdf](02-linux-basics/linux_essentials_certificate.pdf)
 
 ---
 
